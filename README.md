@@ -5,6 +5,20 @@
   Suicide was the second leading cause of death among
   young people 15-29 years old globally in 2016.
   Close to 800,000 people die due to suicide every year.
+# Preview:
+###### Index Page
+![](Preview/Index.png)
+###### About Page
+![](Preview/About.png)
+###### Resources Page
+![](Preview/Resources.png)
+###### Music Page
+![](Preview/Music.png)
+###### Message Page
+![](Preview/Message.png)
+###### Menu Page
+![](Preview/Music.png)
+
 
 ## Project setup
 
